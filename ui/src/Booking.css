@@ -1,0 +1,10 @@
+.Booking {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    padding: 1rem;
+}
+
+.Booking div {
+    width: 25%;
+}
